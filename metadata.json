@@ -1,0 +1,7 @@
+{
+  "name": "AI Interaction Lab",
+  "description": "Interactive AI co-creation and comic panel editing lab exploring mixed-initiative human-AI collaboration.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
